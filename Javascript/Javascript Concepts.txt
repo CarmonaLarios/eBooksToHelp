@@ -1,0 +1,16 @@
+1. Hoisting,
+2. Closures,
+3. Var, let, const - scope (local, global),
+4. IIFE (Immediately Invoked Function Expression),
+5. String, Array, Object - methods
+6. Functions,
+7. Currying
+8. Memoization,
+9. apply, call, and bind methods
+10. Callbacks,
+11. Promises,
+12. Async & Await,
+13.JavaScript Prototype,
+14. Module Pattern,
+15. ES6 Syntax
+16. Dom Manipulation
